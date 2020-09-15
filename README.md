@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://unussualPerson.github.io/rsschool-cv/cv
