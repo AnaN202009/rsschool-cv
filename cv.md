@@ -9,3 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet augue in n
 * Phone: *+123456789*
 * [Linkedin](http://linkedin.com)
 * [GitHub](http://github.com)
+
+## Technical skills:
+* Lorem ipsum
+* Lorem ipsum
+* Lorem ipsum
